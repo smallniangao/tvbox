@@ -1,4 +1,4 @@
-# 📺tvbox
+# 📺TVBox 地址订阅源 自用接口 订阅链接
 影视源接口地址分享 影视仓配置接口大全 TVBox仓库地址源 接口地址 订阅源 Catbox 蜂蜜影视 地址源 订阅接口地址
 
 
@@ -35,3 +35,8 @@ https://share.feijipan.com/s/iDdFNsdF
 
 夸克网盘：https://pan.quark.cn/s/0dd79cb01a2c
 
+# 📺 快速使用
+
+在 FongMi TV / 影视仓 / TVBox 里导入：
+
+https://6.180189.com/?source=json
